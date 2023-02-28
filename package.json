@@ -1,5 +1,5 @@
 {
-  "name": "mirai-api-http",
+  "name": "mirai-api-http2",
   "version": "1.9.7",
   "description": "Mirai HTTP API (console) plugin",
   "main": "index.js",
